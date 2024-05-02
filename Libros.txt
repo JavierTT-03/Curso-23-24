@@ -1,3 +1,3 @@
-lirbo 
+libro
 libro1
 libro2
